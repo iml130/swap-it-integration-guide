@@ -22,8 +22,16 @@ The SWAP-IT Integration Guide is released under the CC BY 4.0 license.
 
 ## Citation
 
-If you to cite the paper or this integration guide for your research, please include the following reference in any resulting publication:
+If you want to cite the paper or this integration guide, please include the following reference in any resulting publication:
 
 ```bibtex
-t.b.d.
+@INPROCEEDINGS{9926665,
+  author={Lünsch, Dennis and Detzner, Peter and Ebner, Andreas and Kerner, Sören},
+  booktitle={2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)}, 
+  title={SWAP-IT: A Scalable and Lightweight Industry 4.0 Architecture for Cyber-Physical Production Systems}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={312-318},
+  doi={10.1109/CASE49997.2022.9926665}}
 ```
